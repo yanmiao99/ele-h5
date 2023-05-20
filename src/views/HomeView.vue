@@ -1,8 +1,10 @@
 <template>
-  <div class="home-view">
+  <div class='home-view'>
     home
   </div>
 </template>
 
 <script setup>
+
+
 </script>
