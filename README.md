@@ -179,7 +179,7 @@ export default defineConfig({
 
 #### eslint 和 unplugin-auto-import 引发的错误处理
 
-![iShot_2023-05-22_11.59.25](/Users/yanmiao/Desktop/element-h5/README.assets/iShot_2023-05-22_11.59.25.png)
+![iShot_2023-05-22_11.59.25](README.assets/iShot_2023-05-22_11.59.25-4732295.png)
 
 ##### 处理方法 
 
