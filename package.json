@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "pinia": "^2.0.36",
+    "vant": "^4.4.0",
     "vue": "^3.3.2",
     "vue-router": "^4.2.0"
   },
@@ -26,6 +27,8 @@
     "eslint-plugin-vue": "^9.11.0",
     "husky": "^8.0.0",
     "prettier": "^2.8.8",
+    "unplugin-auto-import": "^0.16.1",
+    "unplugin-vue-components": "^0.24.1",
     "vite": "^4.3.5"
   }
 }
